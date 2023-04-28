@@ -1,0 +1,15 @@
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\bin\Debug\net7.0\LastExercise.exe
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\bin\Debug\net7.0\LastExercise.deps.json
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\bin\Debug\net7.0\LastExercise.runtimeconfig.json
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\bin\Debug\net7.0\LastExercise.dll
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\bin\Debug\net7.0\LastExercise.pdb
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.csproj.AssemblyReference.cache
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.AssemblyInfoInputs.cache
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.AssemblyInfo.cs
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.csproj.CoreCompileInputs.cache
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.dll
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\refint\LastExercise.dll
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.pdb
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\LastExercise.genruntimeconfig.cache
+C:\Users\87053\OneDrive\Рабочий стол\test visual studio code\LastExercise\obj\Debug\net7.0\ref\LastExercise.dll
